@@ -1,0 +1,4 @@
+assignment/database/connectivity/JDBCConnector.class
+assignment/main/application/Application.class
+assignment/query/processor/DatabaseQueryProcessor.class
+assignment/file/reader/DataFileParser.class
